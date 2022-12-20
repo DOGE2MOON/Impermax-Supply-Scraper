@@ -12,7 +12,7 @@ recipient = 'YOUR_ADDRESS_HERE'
 chains = {
 	'Ethereum': ['https://rpc.ankr.com/eth', '0x8C3736e2FE63cc2cD89Ee228D9dBcAb6CE5B767B'],
 	'Polygon': ['https://rpc.ankr.com/polygon', '0xBB92270716C8c424849F17cCc12F4F24AD4064D6', '0x7F7AD5b16c97Aa9C2B0447C2676ce7D5CEFEbCd3'], #RPC, v1 Factory, v2 Factory
-	'Arbitrum': ['https://arb1.arbitrum.io/rpc', '0x8C3736e2FE63cc2cD89Ee228D9dBcAb6CE5B767B', '0x5475aEd9d11BeaA822e122C36ACDfa0dA2eb086f'],
+	'Arbitrum': ['https://arb1.arbitrum.io/rpc', '0x8C3736e2FE63cc2cD89Ee228D9dBcAb6CE5B767B', '0x9708E0B216a88D38d469B255cE78c1369ad898e6'],
 	'Avalanche': ['https://api.avax.network/ext/bc/C/rpc', '0x8C3736e2FE63cc2cD89Ee228D9dBcAb6CE5B767B'],
 	'Fantom': ['https://rpc.ftm.tools/', '0x60aE5F446AE1575534A5F234D6EC743215624556'],
 	'Moonriver': ['https://rpc.moonriver.moonbeam.network', '0x8C3736e2FE63cc2cD89Ee228D9dBcAb6CE5B767B']
